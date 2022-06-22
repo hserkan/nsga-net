@@ -2,7 +2,7 @@
 from __future__ import print_function
 
 import sys
-# update your projecty root path before running
+# update your project root path before running
 sys.path.insert(0, 'path/to/nsga-net')
 
 import torch
